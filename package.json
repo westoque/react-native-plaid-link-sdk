@@ -62,5 +62,8 @@
     "react-native": "0.66.0",
     "typescript": "^4.5.5",
     "xyz": "0.5.x"
+  },
+  "dependencies": {
+    "@expo/config-plugins": "^6.0.1"
   }
 }
